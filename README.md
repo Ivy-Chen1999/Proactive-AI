@@ -1,6 +1,7 @@
 # Proactive AI
 
 An AI assistant that knows when to help
+Final project for the Building AI course
 
 ## Summary
 
@@ -84,7 +85,7 @@ Ultimately, I'm interested in moving beyond AI that only reacts to commands. A u
 
 ## Acknowledgments
 
-This project was developed as part of the Building AI course by the University of Helsinki and Reaktor.
+This project was developed as part of the Building AI course.
 
 The project was also inspired by research on human-AI interaction:
 
